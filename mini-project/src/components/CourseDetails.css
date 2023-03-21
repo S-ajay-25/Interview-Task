@@ -1,0 +1,63 @@
+  .details{
+    
+    text-align: justify;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+ } 
+ h4{ 
+    border: 1px solid black;
+    padding: 20px 25px;
+    border-radius: 8px;
+    background-color: teal;
+    color: white;
+    cursor: pointer;
+    
+ }
+ h4:hover{
+    color: black;
+     background: transparent;
+ 
+ }
+ .basicprogramming {
+   text-decoration: none;
+
+ }
+ .programmingpy{
+   text-decoration: none;
+ }
+ .datastructure{
+   text-decoration: none;
+ }
+ .simpleprograms{
+   text-decoration: none;
+ }
+ .complexprograms {
+   text-decoration: none;
+ }
+ .python{
+  text-decoration: none;
+  color: teal;
+  
+}
+.python:hover{
+  color: black;
+  
+}
+.java {
+  text-decoration: none;
+  color: teal;
+}
+.java:hover{
+  color: black;
+}
+.javascript {
+  text-decoration: none;
+  color: teal;
+}
+.javascript:hover{
+  color: black;
+}
+ 
+  

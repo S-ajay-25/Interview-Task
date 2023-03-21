@@ -1,0 +1,46 @@
+.project-card {
+    background-color: teal;
+    padding: 8px 8px;
+    margin: 5px;
+    border: 1px solid teal;
+    border-radius: 7px;
+  }
+  .project-title {
+    color: white;
+    padding: 0 0 10px 0;
+  }
+  .pro-details p {
+    padding-bottom: 10px;
+    font-size: 1.1rem;
+    text-align: justify;
+    color: white;
+  }
+
+  .btn {
+    padding: 8px 15px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    background-color: rgb(248, 217, 15);
+    color: black;
+    border: 1px solid white;
+    font-weight: 600;
+    cursor: pointer;
+  
+  }
+  .btn{
+    margin-left: 5px;
+  }
+
+  .btn:hover {
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    transition: 0.3s;
+  }
+  .pro-btn .btn {
+    padding: 0.5rem 1rem;
+  }
+  .pro-btn {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 0;
+  }

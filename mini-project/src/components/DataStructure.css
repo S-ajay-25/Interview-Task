@@ -1,0 +1,38 @@
+.datastructure{
+    background-color: teal;
+    color: white;
+    
+}
+.datastructure .listconcepts{
+    margin: 5px;
+    background-color: teal;
+    color: white;
+}
+.listconcepts h5{
+    font-size: 18px;
+}
+.listconcepts{
+    padding: 15px;
+}
+.list{
+    list-style-type: none;
+    color: white;
+    font-size: large;
+    
+}
+.list li a {
+    color: white;
+}
+.list li a:hover{
+    color: black;
+}
+.list1{
+    list-style-type: none;
+}
+.list1 li a{
+    
+    color: white;
+}
+.list1 li a:hover{
+    color: black;
+}
